@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b275f2b1-df8f-4298-a53e-0f54c2ff4aa4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BookAPI2/src/main/java/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookAPI2/src/main/java/com/example/bookapi2/BatchProcessingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookAPI2/src/main/java/com/example/bookapi2/BatchProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookAPI2/src/main/java/publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookAPI3.0/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookAPI3.0/src/main/java/BookPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookAPI3.0/src/main/java/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookAPI3.0/src/main/java/com/example/bookapi/Other/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookAPI3.0/src/main/java/com/example/bookapi/Other/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookManagement/src/main/java/org/example/bookmanagement/LibraryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product-D5/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/Book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/Book/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/Book/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/Employees/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/Employees/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/Employees/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/RoleReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-Webservice-V2/src/main/java/com/example/springsecurewebservicev2/UserReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-webservice/src/main/java/com/example/springsecurewebservice/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecure-webservice/src/main/java/com/example/springsecurewebservice/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Controller/SaleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Controller/SaleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Service/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Service/VehicleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/repository/VehicleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignments4/src/test/java/com/example/asignments4/repository/VehicleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEM 4" beforeDir="false" afterPath="$PROJECT_DIR$/../SEM 4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_bootSem4/src/main/java/com/example/pro/ProductService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kOx6oEOKbGRMwbXYh0LL2WYOxJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Dart Command Line App.Main.dart.executor": "Run",
+    "Dart Command Line App.Students.dart.executor": "Run",
+    "Dart Command Line App.student_management.dart.executor": "Run",
+    "Dart Command Line App.student_manager.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/SEM 4/Asignment-Dart",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JSON"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SEM 4\Asignment-Dart\.idea\libraries\Lib" />
+      <recent name="C:\SEM 4\Asignment-Dart\.idea\libraries" />
+      <recent name="C:\SEM 4\Asignment-Dart\.idea\libraries\Manage" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b275f2b1-df8f-4298-a53e-0f54c2ff4aa4" name="Changes" comment="" />
+      <created>1723168252885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723168252885</updated>
+      <workItem from="1723168254031" duration="985000" />
+      <workItem from="1723169302045" duration="4098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
